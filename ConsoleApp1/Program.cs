@@ -24,6 +24,10 @@ namespace ConsoleApp1
             {
                 b = Convert.ToInt32(Console.ReadLine());
             }
+            if (r == 3)
+            {
+                Console.WriteLine(a + b);
+            }
         }
     }
 }
