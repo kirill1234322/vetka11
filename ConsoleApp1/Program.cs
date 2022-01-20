@@ -20,6 +20,10 @@ namespace ConsoleApp1
             {
                 a = Convert.ToInt32(Console.ReadLine());
             }
+            if (r == 2)
+            {
+                b = Convert.ToInt32(Console.ReadLine());
+            }
         }
     }
 }
