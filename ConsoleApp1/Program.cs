@@ -32,6 +32,14 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(a - b);
             }
+            if (r == 5)
+            {
+                Console.WriteLine(a * b);
+            }
+            if (r == 6)
+            {
+                Console.WriteLine(a / b);
+            }
         }
     }
 }
