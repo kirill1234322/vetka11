@@ -28,6 +28,10 @@ namespace ConsoleApp1
             {
                 Console.WriteLine(a + b);
             }
+            if (r == 4)
+            {
+                Console.WriteLine(a - b);
+            }
         }
     }
 }
